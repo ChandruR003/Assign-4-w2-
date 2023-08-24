@@ -1,0 +1,13 @@
+.csscontainer {
+  width: 1000px;
+  background-color: bisque;
+  margin: auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap wrap;
+}
+body {
+  font-size: small;
+}
